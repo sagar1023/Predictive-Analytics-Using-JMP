@@ -53,6 +53,7 @@ Feelings of Hopelessness:
 Higher internet confidence correlates with increased feelings of hopelessness (Coefficient: 0.0605).
 Adequate Sleep:
 Confidence in using the internet positively correlates with adequate sleep (Coefficient: 0.0605).
+
 Conclusion:
 
 Positive Impacts:
@@ -60,15 +61,20 @@ Improved internet connection and confidence are positively associated with deep 
 Negative Impacts:
 Extensive internet use for health information can lead to increased concerns about cancer quality and feelings of hopelessness.
 Older adults report deeper fulfillment and a clearer sense of direction despite extensive internet usage.
+
 Recommendations
+
 Improve Healthcare Efficiency:
 Focus on reducing infant mortality rates and increasing life expectancy to align with GDP spending.
+
 Promote Positive Internet Usage:
 Encourage balanced internet usage to avoid anxiety-inducing health information.
 Enhance telehealth services to improve satisfaction among users.
+
 Further Research:
 Explore strategies to reduce healthcare costs while improving health outcomes.
 Understand demographic nuances in internet usage for personalized interventions.
+
 ![image](https://github.com/sagar1023/Predictive-Analytics-Using-JMP/assets/125538858/129078e6-eec3-475b-a891-3db9705ec85a)
 ![image](https://github.com/sagar1023/Predictive-Analytics-Using-JMP/assets/125538858/b7ffddb2-7e06-4f46-a78e-fbf759fbaa6c)
 ![image](https://github.com/sagar1023/Predictive-Analytics-Using-JMP/assets/125538858/b6c47847-226a-4d79-9009-3c360b150f28)
