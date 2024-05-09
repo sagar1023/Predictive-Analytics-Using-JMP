@@ -1,5 +1,5 @@
 # Predictive-Analytics-Using-JMP
-Report on U.S. Healthcare System Efficiency and the Impact of Internet Usage on Health Outcomes
+# Report on U.S. Healthcare System Efficiency and the Impact of Internet Usage on Health Outcomes
 
 Background:
 GetBetterHealth.com (GBH) is a startup aiming to reduce healthcare costs and improve efficiency in the U.S. healthcare system. Their focus lies in examining the relative efficiency of the U.S. healthcare system and understanding how internet usage affects health outcomes. The analysis used two primary data sources: OECD.Stat for comparing international healthcare outcomes and the HINTS dataset for analyzing internet usage's impact on health outcomes.
