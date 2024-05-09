@@ -58,6 +58,7 @@ Conclusion:
 
 Positive Impacts:
 Improved internet connection and confidence are positively associated with deep fulfillment and sleep.
+
 Negative Impacts:
 Extensive internet use for health information can lead to increased concerns about cancer quality and feelings of hopelessness.
 Older adults report deeper fulfillment and a clearer sense of direction despite extensive internet usage.
